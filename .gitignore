@@ -1,0 +1,11 @@
+.venv/
+.DS_Store
+saida/
+amostras/
+amostras-clone/
+minha-voz/*
+!minha-voz/.gitkeep
+*.wav
+*.mp3
+*.ogg
+*.m4a

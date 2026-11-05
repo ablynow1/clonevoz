@@ -1,0 +1,4 @@
+mlx-audio==0.6.4
+mlx-whisper
+soundfile
+numpy
